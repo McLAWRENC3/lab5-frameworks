@@ -26,4 +26,4 @@ Enjoyed the declarative approach. React makes interactivity straightforward usin
 ## Submission
 
 - CodeSandbox (React): https://codesandbox.io/p/devbox/xenodochial-cloud-hytgw8
-- Video recording: 
+- Video recording: https://drive.google.com/file/d/10OqU8_ZuReCyBgRafzy541qNRFG6nK_p/view?usp=drive_link
